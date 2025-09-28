@@ -1,0 +1,5 @@
+{
+	"music_directory" : "<your music directory here>",
+	"output_directory" : "<your playlist directory here>",
+	"absolute_paths": false
+}
