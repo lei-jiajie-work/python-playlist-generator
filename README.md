@@ -54,4 +54,4 @@ Creates m3u files with or without absolute filepaths.
 # Usage:
 
 
-  ./playlist-gen.py -f 'Silent Hill' -m /home/user/Music/ -n 'Silent Hill Playlist' -d /home/user/Documents/playlists -a False
+  ./playlist-gen.py -f 'Silent Hill' -m /home/user/Music -n 'Silent Hill Playlist' -d /home/user/Documents/playlists -a False
